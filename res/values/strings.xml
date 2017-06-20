@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NovogeneQR</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="dummy_content">诺禾致源</string>
+    <string name="firstInfo">物流快速反应系统</string>
+    <color name="black_overlay">#228B22</color>
+    
+    <string name="zbarNumber">9787220047237</string>
+    <string name="zbarGet">条形码扫描</string>
+
+</resources>
