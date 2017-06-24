@@ -1,2 +1,2 @@
-# hello-world
+# NovoQR
 Novo Logistics Quick Response !
